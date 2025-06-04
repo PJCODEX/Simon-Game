@@ -1,17 +1,16 @@
-# Simon-Game
+# Simon-Game<br>
 🎮 Simon Says Game
 A fun, memory-based game inspired by the classic Simon Says! Test how well you can follow an increasingly complex pattern of lights and sounds.
 
 <br>
 
-🚀 Live Demo
-Click here to play the gameReplace # with your game’s 
-🎮 Simon Says Game
-A fun, memory-based game inspired by the classic Simon Says! Test how well you can follow an increasingly complex pattern of lights and sounds.
+🚀 Live Demo<br>
+  (https://pjcodex.github.io/Simon-Game/)
+
 
 <br>
 
-🧠 How to Play
+🧠 How to Play<br>
 Watch the sequence of colors .
 
 Repeat the exact sequence by clicking the buttons in order.
@@ -20,16 +19,19 @@ With each level, the sequence gets longer and harder!
 
 One wrong click, and it's game over!
 <br>
+<br>
 
-🛠️ Tech Stack
+🛠️ Tech Stack<br>
 HTML
 
 CSS
 
 JavaScript
 
+<br>
 
-📁 Project Structure
+
+📁 Project Structure<br>
 bash
 Copy
 Edit
@@ -38,9 +40,12 @@ Edit
 ├── index.html        # Main HTML file
 ├── style.css         # Game styling
 └── script.js         # Game logic
+
+
 <br>
 
-✅ Features
+✅ Features <br>
+
 Interactive and responsive UI
 
 Increasing difficulty as you progress
@@ -52,7 +57,10 @@ Game over alert with score
 Clean and simple layout
 
 <br>
-📌 Future Improvements
+
+
+📌 Future Improvements <br>
+
 High score tracking
 
 Difficulty settings

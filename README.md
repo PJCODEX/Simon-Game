@@ -21,7 +21,8 @@ One wrong click, and it's game over!
 <br>
 <br>
 
-🛠️ Tech Stack<br>
+🛠️ Tech Stack <br>
+
 HTML
 
 CSS

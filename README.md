@@ -5,7 +5,7 @@ A fun, memory-based game inspired by the classic Simon Says! Test how well you c
 <br>
 
 🚀 Live Demo<br>
-  (https://pjcodex.github.io/Simon-Game/)
+  (https://simon-game-seven-tau.vercel.app/)
 
 
 <br>

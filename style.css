@@ -1,35 +1,136 @@
 body {
-    text-align: center;
-
+  text-align: center;
+  font-family: Arial, sans-serif;
+  background-color: white;
+  margin: 0;
+  padding: 0;
 }
+
+h1 {
+  font-size: 3rem;
+  margin-top: 20px;
+}
+
+h2 {
+  font-size: 1.5rem;
+  margin-bottom: 30px;
+}
+
+.btn-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.line-one,
+.line-two {
+  display: flex;
+}
+
 .btn {
-    height: 200px;
-    width: 200px;
-    border-radius:20% ;
-    border: 10px solid black;
-    margin:2.5rem;
+  height: 150px;
+  width: 150px;
+  margin: 10px;
+  border-radius: 20px;
+  cursor: pointer;
+  font-size: 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  user-select: none;
+  transition: all 0.2s ease;
 }
 
-.btn-container{
-    display: flex;
-    justify-content: center;
+.red {
+  background-color: #f44336;
+}
+
+.green {
+  background-color: #4caf50;
 }
 
 .yellow {
-    background-color: #f99b45;
+  background-color: #ffeb3b;
+  color: #333;
 }
-.red {
-    background-color: #d95980;
-}
-.green {
-    background-color:#63aac0;
-}
+
 .purple {
-    background-color: #819ff9;
+  background-color: #9c27b0;
 }
+
 .flash {
-    background-color: white;
+  opacity: 0.5;
 }
-.userflash{
-    background-color: green;
+
+.userflash {
+  box-shadow: 0 0 20px white;
+}
+body {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  background-color: white;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  font-size: 3rem;
+  margin-top: 20px;
+}
+
+h2 {
+  font-size: 1.5rem;
+  margin-bottom: 30px;
+}
+
+.btn-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.line-one,
+.line-two {
+  display: flex;
+}
+
+.btn {
+  height: 150px;
+  width: 150px;
+  margin: 10px;
+  border-radius: 20px;
+  cursor: pointer;
+  font-size: 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  user-select: none;
+  transition: all 0.2s ease;
+}
+
+.red {
+  background-color: #f44336;
+}
+
+.green {
+  background-color: #4caf50;
+}
+
+.yellow {
+  background-color: #ffeb3b;
+  color: #333;
+}
+
+.purple {
+  background-color: #9c27b0;
+}
+
+.flash {
+  opacity: 0.5;
+}
+
+.userflash {
+  box-shadow: 0 0 20px white;
 }
